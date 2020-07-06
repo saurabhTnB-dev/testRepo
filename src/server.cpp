@@ -154,7 +154,7 @@ int main(void) {
     writeVariable(server);
     writeWrongVariable(server);
 
-	printf("Saurabh:Before Server RUN dev33");
+	printf("Saurabh:Before Server RUN Github dev1:0");
 
     UA_StatusCode retval = UA_Server_run(server, &running);
 
