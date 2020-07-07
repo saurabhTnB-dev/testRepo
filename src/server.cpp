@@ -154,7 +154,7 @@ int main(void) {
     writeVariable(server);
     writeWrongVariable(server);
 
-	printf("Saurabh TnB:Change 0707:1539");
+	printf("Saurabh Cognizant:Change 0707:1711");
 
     UA_StatusCode retval = UA_Server_run(server, &running);
 
