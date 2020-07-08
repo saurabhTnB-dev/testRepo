@@ -156,7 +156,7 @@ int main(void) {
 
 	printf("Saurabh Cognizant:Change 0707:1711");
 	
-	printf("Saurabh Cognizant:Change 0708:1815");
+	printf("Saurabh Cognizant:Change 0708:1923");
 
     UA_StatusCode retval = UA_Server_run(server, &running);
 
